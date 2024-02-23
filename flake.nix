@@ -180,6 +180,7 @@
       microsoft-surface-laptop-amd = import ./microsoft/surface/surface-laptop-amd;
       microsoft-surface-common = import ./microsoft/surface/common;
       microsoft-surface-pro-3 = import ./microsoft/surface-pro/3;
+      milkv-pioneer = import ./milkv/pioneer;
       morefine-m600 = import ./morefine/m600;
       msi-gs60 = import ./msi/gs60;
       msi-gl62 = import ./msi/gl62;
